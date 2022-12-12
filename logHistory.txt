@@ -1,0 +1,12 @@
+ERROR   2022-11-06 20:09:50,508 [main] dao.impl.IDaoPacienteImpl  - Error al intentar mostrar la lista
+ERROR   2022-11-06 20:22:39,794 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-06 20:23:36,442 [main] dao.impl.IDaoPacienteImpl  - Problemas con la inserción de datos
+ERROR   2022-11-06 20:24:32,123 [main] dao.impl.IDaoPacienteImpl  - Problemas con la inserción de datos
+ERROR   2022-11-06 20:27:50,065 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-07 19:29:40,855 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-07 19:29:55,354 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-07 19:32:35,687 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-07 19:34:19,101 [main] dao.impl.IDaoPacienteImpl  - Problema 3
+ERROR   2022-11-07 19:35:41,973 [main] dao.impl.IDaoPacienteImpl  - Error al intentar modificar el paciente
+ERROR   2022-11-07 19:36:39,020 [main] dao.impl.IDaoPacienteImpl  - Error al intentar modificar el paciente
+ERROR   2022-11-07 19:50:56,066 [main] dao.impl.IDaoPacienteImpl  - Error al intentar eliminar el paciente con ID 3
